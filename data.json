@@ -1,0 +1,2005 @@
+{
+  "schema_version": "1.0",
+  "works": [
+    {
+      "id": 1,
+      "title_cn": "火影忍者",
+      "title_en": "Naruto",
+      "characters": [
+        {
+          "cn": "漩涡鸣人",
+          "en": "Naruto Uzumaki"
+        },
+        {
+          "cn": "宇智波佐助",
+          "en": "Sasuke Uchiha"
+        },
+        {
+          "cn": "春野樱",
+          "en": "Sakura Haruno"
+        },
+        {
+          "cn": "旗木卡卡西",
+          "en": "Kakashi Hatake"
+        },
+        {
+          "cn": "宇智波鼬",
+          "en": "Itachi Uchiha"
+        },
+        {
+          "cn": "我爱罗",
+          "en": "Gaara"
+        },
+        {
+          "cn": "日向雏田",
+          "en": "Hinata Hyuga"
+        },
+        {
+          "cn": "奈良鹿丸",
+          "en": "Shikamaru Nara"
+        },
+        {
+          "cn": "自来也",
+          "en": "Jiraiya"
+        },
+        {
+          "cn": "大蛇丸",
+          "en": "Orochimaru"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title_cn": "恶魔猎人",
+      "title_en": "KPop Demon Hunters",
+      "characters": [
+        {
+          "cn": "卢米",
+          "en": "Rumi"
+        },
+        {
+          "cn": "米拉",
+          "en": "Mira"
+        },
+        {
+          "cn": "佐伊",
+          "en": "Zoe"
+        },
+        {
+          "cn": "吉努",
+          "en": "Jinu"
+        },
+        {
+          "cn": "赛琳",
+          "en": "Celine"
+        },
+        {
+          "cn": "鬼魔",
+          "en": "Gwi-Ma"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title_cn": "异型舞台",
+      "title_en": "Alien Stage",
+      "characters": [
+        {
+          "cn": "卢卡",
+          "en": "Luka"
+        },
+        {
+          "cn": "伊万",
+          "en": "Ivan"
+        },
+        {
+          "cn": "米齐",
+          "en": "Mizi"
+        },
+        {
+          "cn": "提尔",
+          "en": "Till"
+        },
+        {
+          "cn": "苏娅",
+          "en": "Sua"
+        },
+        {
+          "cn": "海优娜",
+          "en": "Hyuna"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title_cn": "轻音少女！",
+      "title_en": "K-ON!",
+      "characters": [
+        {
+          "cn": "平泽唯",
+          "en": "Yui Hirasawa"
+        },
+        {
+          "cn": "秋山澪",
+          "en": "Mio Akiyama"
+        },
+        {
+          "cn": "田井中律",
+          "en": "Ritsu Tainaka"
+        },
+        {
+          "cn": "琴吹紬",
+          "en": "Tsumugi Kotobuki"
+        },
+        {
+          "cn": "中野梓",
+          "en": "Azusa Nakano"
+        },
+        {
+          "cn": "山中佐和子",
+          "en": "Sawako Yamanaka"
+        },
+        {
+          "cn": "真锅和",
+          "en": "Nodoka Manabe"
+        },
+        {
+          "cn": "平泽忧",
+          "en": "Ui Hirasawa"
+        },
+        {
+          "cn": "齐藤菫",
+          "en": "Sumire Saito"
+        },
+        {
+          "cn": "曾我部惠",
+          "en": "Megumi Sogabe"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title_cn": "文豪野犬",
+      "title_en": "Bungo Stray Dogs",
+      "characters": [
+        {
+          "cn": "中岛敦",
+          "en": "Atsushi Nakajima"
+        },
+        {
+          "cn": "太宰治",
+          "en": "Osamu Dazai"
+        },
+        {
+          "cn": "国木田独步",
+          "en": "Doppo Kunikida"
+        },
+        {
+          "cn": "江户川乱步",
+          "en": "Ranpo Edogawa"
+        },
+        {
+          "cn": "与谢野晶子",
+          "en": "Akiko Yosano"
+        },
+        {
+          "cn": "芥川龙之介",
+          "en": "Ryunosuke Akutagawa"
+        },
+        {
+          "cn": "中原中也",
+          "en": "Chuya Nakahara"
+        },
+        {
+          "cn": "福泽谕吉",
+          "en": "Yukichi Fukuzawa"
+        },
+        {
+          "cn": "森鸥外",
+          "en": "Ougai Mori"
+        },
+        {
+          "cn": "泉镜花",
+          "en": "Kyoka Izumi"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title_cn": "NANA",
+      "title_en": "NANA",
+      "characters": [
+        {
+          "cn": "大崎娜娜",
+          "en": "Nana Osaki"
+        },
+        {
+          "cn": "小松奈奈",
+          "en": "Nana Komatsu"
+        },
+        {
+          "cn": "本城莲",
+          "en": "Ren Honjo"
+        },
+        {
+          "cn": "高木泰士",
+          "en": "Yasu Takagi"
+        },
+        {
+          "cn": "寺岛伸夫",
+          "en": "Nobuo Terashima"
+        },
+        {
+          "cn": "一之濑巧",
+          "en": "Takumi Ichinose"
+        },
+        {
+          "cn": "冈崎真一",
+          "en": "Shinichi Okazaki"
+        },
+        {
+          "cn": "芹泽蕾拉",
+          "en": "Reira Serizawa"
+        },
+        {
+          "cn": "高仓京助",
+          "en": "Kyosuke Takakura"
+        },
+        {
+          "cn": "早乙女淳子",
+          "en": "Junko Saotome"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title_cn": "光与夜之恋",
+      "title_en": "Light and Night",
+      "characters": [
+        {
+          "cn": "萧逸",
+          "en": "Osborn"
+        },
+        {
+          "cn": "陆沉",
+          "en": "Evan"
+        },
+        {
+          "cn": "齐司礼",
+          "en": "Sariel"
+        },
+        {
+          "cn": "查理苏",
+          "en": "Charlie"
+        },
+        {
+          "cn": "夏鸣星",
+          "en": "Jesse"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title_cn": "世界之外",
+      "title_en": "Beyond the World",
+      "characters": [
+        {
+          "cn": "柏源",
+          "en": "Bai Yuan"
+        },
+        {
+          "cn": "顾时夜",
+          "en": "Gu Shiye"
+        },
+        {
+          "cn": "易遇",
+          "en": "Yi Yu"
+        },
+        {
+          "cn": "夏萧因",
+          "en": "Xia Xiaoyin"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title_cn": "时空中的绘旅人",
+      "title_en": "Lovebrush Chronicles",
+      "characters": [
+        {
+          "cn": "艾因",
+          "en": "Ayn Alwyn"
+        },
+        {
+          "cn": "路辰",
+          "en": "Alkaid McGrath"
+        },
+        {
+          "cn": "罗夏",
+          "en": "Lars Rorschach"
+        },
+        {
+          "cn": "司岚",
+          "en": "Clarence Clayden"
+        },
+        {
+          "cn": "叶瑄",
+          "en": "Cael Anselm"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title_cn": "未定事件薄",
+      "title_en": "Tears of Themis",
+      "characters": [
+        {
+          "cn": "左然",
+          "en": "Artem Wing"
+        },
+        {
+          "cn": "夏彦",
+          "en": "Luke Pearce"
+        },
+        {
+          "cn": "莫弈",
+          "en": "Vyn Richter"
+        },
+        {
+          "cn": "陆景和",
+          "en": "Marius von Hagen"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title_cn": "灌篮高手",
+      "title_en": "Slam Dunk",
+      "characters": [
+        {
+          "cn": "樱木花道",
+          "en": "Hanamichi Sakuragi"
+        },
+        {
+          "cn": "流川枫",
+          "en": "Kaede Rukawa"
+        },
+        {
+          "cn": "赤木刚宪",
+          "en": "Takenori Akagi"
+        },
+        {
+          "cn": "三井寿",
+          "en": "Hisashi Mitsui"
+        },
+        {
+          "cn": "宫城良田",
+          "en": "Ryota Miyagi"
+        },
+        {
+          "cn": "赤木晴子",
+          "en": "Haruko Akagi"
+        },
+        {
+          "cn": "安西光义",
+          "en": "Mitsuyoshi Anzai"
+        },
+        {
+          "cn": "仙道彰",
+          "en": "Akira Sendoh"
+        },
+        {
+          "cn": "藤真健司",
+          "en": "Kenji Fujima"
+        },
+        {
+          "cn": "泽北荣治",
+          "en": "Eiji Sawakita"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title_cn": "排球少年！！",
+      "title_en": "Haikyuu!!",
+      "characters": [
+        {
+          "cn": "日向翔阳",
+          "en": "Shoyo Hinata"
+        },
+        {
+          "cn": "影山飞雄",
+          "en": "Tobio Kageyama"
+        },
+        {
+          "cn": "泽村大地",
+          "en": "Daichi Sawamura"
+        },
+        {
+          "cn": "菅原孝支",
+          "en": "Kosuke Sugawara"
+        },
+        {
+          "cn": "东峰旭",
+          "en": "Asahi Azumane"
+        },
+        {
+          "cn": "西谷夕",
+          "en": "Yu Nishinoya"
+        },
+        {
+          "cn": "月岛萤",
+          "en": "Kei Tsukishima"
+        },
+        {
+          "cn": "山口忠",
+          "en": "Tadashi Yamaguchi"
+        },
+        {
+          "cn": "孤爪研磨",
+          "en": "Kenma Kozume"
+        },
+        {
+          "cn": "黑尾铁朗",
+          "en": "Tetsuro Kuroo"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title_cn": "线条小狗",
+      "title_en": "Maltese",
+      "characters": [
+        {
+          "cn": "线条小狗",
+          "en": "Maltese"
+        },
+        {
+          "cn": "小白",
+          "en": "White"
+        },
+        {
+          "cn": "小黑",
+          "en": "Black"
+        },
+        {
+          "cn": "小黄",
+          "en": "Yellow"
+        },
+        {
+          "cn": "小粉",
+          "en": "Pink"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title_cn": "原神",
+      "title_en": "Genshin Impact",
+      "characters": [
+        {
+          "cn": "派蒙",
+          "en": "Paimon"
+        },
+        {
+          "cn": "空",
+          "en": "Aether"
+        },
+        {
+          "cn": "荧",
+          "en": "Lumine"
+        },
+        {
+          "cn": "钟离",
+          "en": "Zhongli"
+        },
+        {
+          "cn": "雷电将军",
+          "en": "Raiden Shogun"
+        },
+        {
+          "cn": "温迪",
+          "en": "Venti"
+        },
+        {
+          "cn": "纳西妲",
+          "en": "Nahida"
+        },
+        {
+          "cn": "达达利亚",
+          "en": "Tartaglia"
+        },
+        {
+          "cn": "迪卢克",
+          "en": "Diluc"
+        },
+        {
+          "cn": "神里绫华",
+          "en": "Kamisato Ayaka"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title_cn": "崩坏3",
+      "title_en": "Honkai Impact 3rd",
+      "characters": [
+        {
+          "cn": "琪亚娜",
+          "en": "Kiana Kaslana"
+        },
+        {
+          "cn": "雷电芽衣",
+          "en": "Raiden Mei"
+        },
+        {
+          "cn": "布洛妮娅",
+          "en": "Bronya Zaychik"
+        },
+        {
+          "cn": "姬子",
+          "en": "Murata Himeko"
+        },
+        {
+          "cn": "希儿",
+          "en": "Seele Vollerei"
+        },
+        {
+          "cn": "符华",
+          "en": "Fu Hua"
+        },
+        {
+          "cn": "德丽莎",
+          "en": "Theresa Apocalypse"
+        },
+        {
+          "cn": "丽塔",
+          "en": "Rita Rossweisse"
+        },
+        {
+          "cn": "八重樱",
+          "en": "Yae Sakura"
+        },
+        {
+          "cn": "爱莉希雅",
+          "en": "Elysia"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title_cn": "罗小黑战记",
+      "title_en": "The Legend of Hei",
+      "characters": [
+        {
+          "cn": "罗小黑",
+          "en": "Xiaohei"
+        },
+        {
+          "cn": "无限",
+          "en": "Wuxian"
+        },
+        {
+          "cn": "风息",
+          "en": "Fengxi"
+        },
+        {
+          "cn": "哪吒",
+          "en": "Nezha"
+        },
+        {
+          "cn": "小白",
+          "en": "Xiaobai"
+        },
+        {
+          "cn": "老君",
+          "en": "Laojun"
+        },
+        {
+          "cn": "虚淮",
+          "en": "Xuhai"
+        },
+        {
+          "cn": "阿根",
+          "en": "Agen"
+        },
+        {
+          "cn": "鹿野",
+          "en": "Luye"
+        },
+        {
+          "cn": "玄离",
+          "en": "Xuanli"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title_cn": "咒术回战",
+      "title_en": "Jujutsu Kaisen",
+      "characters": [
+        {
+          "cn": "虎杖悠仁",
+          "en": "Yuji Itadori"
+        },
+        {
+          "cn": "伏黑惠",
+          "en": "Megumi Fushiguro"
+        },
+        {
+          "cn": "钉崎野蔷薇",
+          "en": "Nobara Kugisaki"
+        },
+        {
+          "cn": "五条悟",
+          "en": "Satoru Gojo"
+        },
+        {
+          "cn": "夏油杰",
+          "en": "Suguru Geto"
+        },
+        {
+          "cn": "两面宿傩",
+          "en": "Ryomen Sukuna"
+        },
+        {
+          "cn": "禅院真希",
+          "en": "Maki Zenin"
+        },
+        {
+          "cn": "狗卷棘",
+          "en": "Toge Inumaki"
+        },
+        {
+          "cn": "熊猫",
+          "en": "Panda"
+        },
+        {
+          "cn": "乙骨忧太",
+          "en": "Yuta Okkotsu"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title_cn": "蓝色监狱",
+      "title_en": "Blue Lock",
+      "characters": [
+        {
+          "cn": "洁世一",
+          "en": "Yoichi Isagi"
+        },
+        {
+          "cn": "凪诚士郎",
+          "en": "Seishiro Nagi"
+        },
+        {
+          "cn": "蜂乐回",
+          "en": "Meguru Bachira"
+        },
+        {
+          "cn": "千切豹马",
+          "en": "Hyoma Chigiri"
+        },
+        {
+          "cn": "国神炼介",
+          "en": "Rensuke Kunigami"
+        },
+        {
+          "cn": "糸师凛",
+          "en": "Rin Itoshi"
+        },
+        {
+          "cn": "糸师冴",
+          "en": "Sae Itoshi"
+        },
+        {
+          "cn": "马狼照英",
+          "en": "Shoei Baro"
+        },
+        {
+          "cn": "御影玲王",
+          "en": "Reo Mikage"
+        },
+        {
+          "cn": "士道龙圣",
+          "en": "Ryusei Shido"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title_cn": "明日方舟",
+      "title_en": "Arknights",
+      "characters": [
+        {
+          "cn": "博士",
+          "en": "Doctor"
+        },
+        {
+          "cn": "阿米娅",
+          "en": "Amiya"
+        },
+        {
+          "cn": "凯尔希",
+          "en": "Kal’tsit"
+        },
+        {
+          "cn": "陈",
+          "en": "Ch’en"
+        },
+        {
+          "cn": "能天使",
+          "en": "Exusiai"
+        },
+        {
+          "cn": "银灰",
+          "en": "SilverAsh"
+        },
+        {
+          "cn": "史尔特尔",
+          "en": "Surtr"
+        },
+        {
+          "cn": "德克萨斯",
+          "en": "Texas"
+        },
+        {
+          "cn": "拉普兰德",
+          "en": "Lappland"
+        },
+        {
+          "cn": "塔露拉",
+          "en": "Talulah"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title_cn": "哪吒",
+      "title_en": "Nezha",
+      "characters": [
+        {
+          "cn": "哪吒",
+          "en": "Nezha"
+        },
+        {
+          "cn": "敖丙",
+          "en": "Ao Bing"
+        },
+        {
+          "cn": "李靖",
+          "en": "Li Jing"
+        },
+        {
+          "cn": "殷夫人",
+          "en": "Lady Yin"
+        },
+        {
+          "cn": "太乙真人",
+          "en": "Taiyi Zhenren"
+        },
+        {
+          "cn": "申公豹",
+          "en": "Shen Gongbao"
+        },
+        {
+          "cn": "东海龙王",
+          "en": "Ao Guang"
+        },
+        {
+          "cn": "无量仙翁",
+          "en": "Wuliang Immortal"
+        },
+        {
+          "cn": "鹿童",
+          "en": "Deer Child"
+        },
+        {
+          "cn": "鹤童",
+          "en": "Crane Child"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title_cn": "怪兽8号",
+      "title_en": "Kaiju No. 8",
+      "characters": [
+        {
+          "cn": "日比野卡夫卡",
+          "en": "Kafka Hibino"
+        },
+        {
+          "cn": "亚白米娜",
+          "en": "Mina Ashiro"
+        },
+        {
+          "cn": "市川莱诺",
+          "en": "Reno Ichikawa"
+        },
+        {
+          "cn": "四之宫琪歌露",
+          "en": "Kikoru Shinomiya"
+        },
+        {
+          "cn": "保科宗四郎",
+          "en": "Soshiro Hoshina"
+        },
+        {
+          "cn": "古桥伊春",
+          "en": "Iharu Furuhashi"
+        },
+        {
+          "cn": "神乐木葵",
+          "en": "Aoi Kaguragi"
+        },
+        {
+          "cn": "四之宫功",
+          "en": "Isao Shinomiya"
+        },
+        {
+          "cn": "鸣海弦",
+          "en": "Gen Narumi"
+        },
+        {
+          "cn": "怪兽8号",
+          "en": "Kaiju No. 8"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title_cn": "反逆的鲁鲁修",
+      "title_en": "Code Geass",
+      "characters": [
+        {
+          "cn": "鲁路修",
+          "en": "Lelouch Lamperouge"
+        },
+        {
+          "cn": "C.C.",
+          "en": "C.C."
+        },
+        {
+          "cn": "枢木朱雀",
+          "en": "Suzaku Kururugi"
+        },
+        {
+          "cn": "卡莲",
+          "en": "Kallen Stadtfeld"
+        },
+        {
+          "cn": "尤菲米娅",
+          "en": "Euphemia li Britannia"
+        },
+        {
+          "cn": "修奈泽尔",
+          "en": "Schneizel el Britannia"
+        },
+        {
+          "cn": "娜娜莉",
+          "en": "Nunnally Lamperouge"
+        },
+        {
+          "cn": "柯内莉亚",
+          "en": "Cornelia li Britannia"
+        },
+        {
+          "cn": "罗洛",
+          "en": "Rolo Lamperouge"
+        },
+        {
+          "cn": "维蕾塔",
+          "en": "Villetta Nu"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title_cn": "英雄联盟",
+      "title_en": "League of Legends",
+      "characters": [
+        {
+          "cn": "盖伦",
+          "en": "Garen"
+        },
+        {
+          "cn": "拉克丝",
+          "en": "Lux"
+        },
+        {
+          "cn": "阿狸",
+          "en": "Ahri"
+        },
+        {
+          "cn": "亚索",
+          "en": "Yasuo"
+        },
+        {
+          "cn": "金克丝",
+          "en": "Jinx"
+        },
+        {
+          "cn": "伊泽瑞尔",
+          "en": "Ezreal"
+        },
+        {
+          "cn": "卡莎",
+          "en": "Kai’Sa"
+        },
+        {
+          "cn": "瑞兹",
+          "en": "Ryze"
+        },
+        {
+          "cn": "李青",
+          "en": "Lee Sin"
+        },
+        {
+          "cn": "提莫",
+          "en": "Teemo"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title_cn": "第五人格",
+      "title_en": "Identity V",
+      "characters": [
+        {
+          "cn": "园丁",
+          "en": "Gardener (Emma Woods)"
+        },
+        {
+          "cn": "医生",
+          "en": "Doctor (Emily Dyer)"
+        },
+        {
+          "cn": "律师",
+          "en": "Lawyer (Freddy Riley)"
+        },
+        {
+          "cn": "佣兵",
+          "en": "Mercenary (Naib Subedar)"
+        },
+        {
+          "cn": "机械师",
+          "en": "Mechanic (Tracy Reznik)"
+        },
+        {
+          "cn": "调香师",
+          "en": "Perfumer (Vera Nair)"
+        },
+        {
+          "cn": "先知",
+          "en": "Seer (Eli Clark)"
+        },
+        {
+          "cn": "红蝶",
+          "en": "Geisha (Michiko)"
+        },
+        {
+          "cn": "鹿头",
+          "en": "Gamekeeper (Bane Perez)"
+        },
+        {
+          "cn": "小丑",
+          "en": "Smiley Face (Joker)"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title_cn": "女神异闻录5",
+      "title_en": "Persona 5",
+      "characters": [
+        {
+          "cn": "雨宫莲",
+          "en": "Ren Amamiya"
+        },
+        {
+          "cn": "坂本龙司",
+          "en": "Ryuji Sakamoto"
+        },
+        {
+          "cn": "高卷杏",
+          "en": "Ann Takamaki"
+        },
+        {
+          "cn": "喜多川祐介",
+          "en": "Yusuke Kitagawa"
+        },
+        {
+          "cn": "新岛真",
+          "en": "Makoto Niijima"
+        },
+        {
+          "cn": "佐仓双叶",
+          "en": "Futaba Sakura"
+        },
+        {
+          "cn": "奥村春",
+          "en": "Haru Okumura"
+        },
+        {
+          "cn": "明智吾郎",
+          "en": "Goro Akechi"
+        },
+        {
+          "cn": "佐仓惣治郎",
+          "en": "Sojiro Sakura"
+        },
+        {
+          "cn": "摩尔加纳",
+          "en": "Morgana"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title_cn": "天官赐福",
+      "title_en": "Heaven Official’s Blessing",
+      "characters": [
+        {
+          "cn": "谢怜",
+          "en": "Xie Lian"
+        },
+        {
+          "cn": "花城",
+          "en": "Hua Cheng"
+        },
+        {
+          "cn": "风信",
+          "en": "Feng Xin"
+        },
+        {
+          "cn": "慕情",
+          "en": "Mu Qing"
+        },
+        {
+          "cn": "师青玄",
+          "en": "Shi Qingxuan"
+        },
+        {
+          "cn": "裴茗",
+          "en": "Pei Ming"
+        },
+        {
+          "cn": "灵文",
+          "en": "Ling Wen"
+        },
+        {
+          "cn": "君吾",
+          "en": "Jun Wu"
+        },
+        {
+          "cn": "贺玄",
+          "en": "He Xuan"
+        },
+        {
+          "cn": "宣姬",
+          "en": "Xuan Ji"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title_cn": "魔道祖师",
+      "title_en": "Grandmaster of Demonic Cultivation",
+      "characters": [
+        {
+          "cn": "魏无羡",
+          "en": "Wei Wuxian"
+        },
+        {
+          "cn": "蓝忘机",
+          "en": "Lan Wangji"
+        },
+        {
+          "cn": "江澄",
+          "en": "Jiang Cheng"
+        },
+        {
+          "cn": "蓝曦臣",
+          "en": "Lan Xichen"
+        },
+        {
+          "cn": "温宁",
+          "en": "Wen Ning"
+        },
+        {
+          "cn": "温情",
+          "en": "Wen Qing"
+        },
+        {
+          "cn": "金凌",
+          "en": "Jin Ling"
+        },
+        {
+          "cn": "聂怀桑",
+          "en": "Nie Huaisang"
+        },
+        {
+          "cn": "聂明玦",
+          "en": "Nie Mingjue"
+        },
+        {
+          "cn": "金光瑶",
+          "en": "Jin Guangyao"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title_cn": "盗墓笔记",
+      "title_en": "The Grave Robbers’ Chronicles",
+      "characters": [
+        {
+          "cn": "吴邪",
+          "en": "Wu Xie"
+        },
+        {
+          "cn": "张起灵",
+          "en": "Zhang Qiling"
+        },
+        {
+          "cn": "王胖子",
+          "en": "Wang Pangzi"
+        },
+        {
+          "cn": "解雨臣",
+          "en": "Xie Yuchen"
+        },
+        {
+          "cn": "黑瞎子",
+          "en": "Hei Xiazi"
+        },
+        {
+          "cn": "吴三省",
+          "en": "Wu Sansheng"
+        },
+        {
+          "cn": "霍秀秀",
+          "en": "Huo Xiuxiu"
+        },
+        {
+          "cn": "阿宁",
+          "en": "A-Ning"
+        },
+        {
+          "cn": "陈文锦",
+          "en": "Chen Wenjin"
+        },
+        {
+          "cn": "吴二白",
+          "en": "Wu Erbai"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title_cn": "时光代理人",
+      "title_en": "Link Click",
+      "characters": [
+        {
+          "cn": "程小时",
+          "en": "Cheng Xiaoshi"
+        },
+        {
+          "cn": "陆光",
+          "en": "Lu Guang"
+        },
+        {
+          "cn": "乔苓",
+          "en": "Qiao Ling"
+        },
+        {
+          "cn": "李天希",
+          "en": "Li Tianxi"
+        },
+        {
+          "cn": "刘旻",
+          "en": "Liu Min"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title_cn": "世界计划",
+      "title_en": "Project SEKAI",
+      "characters": [
+        {
+          "cn": "初音未来",
+          "en": "Hatsune Miku"
+        },
+        {
+          "cn": "星乃一歌",
+          "en": "Ichika Hoshino"
+        },
+        {
+          "cn": "天马司",
+          "en": "Tsukasa Tenma"
+        },
+        {
+          "cn": "宵崎奏",
+          "en": "Kanade Yoisaki"
+        },
+        {
+          "cn": "花里实乃理",
+          "en": "Minori Hanasato"
+        },
+        {
+          "cn": "青柳冬弥",
+          "en": "Toya Aoyagi"
+        },
+        {
+          "cn": "东云绘名",
+          "en": "Ena Shinonome"
+        },
+        {
+          "cn": "凤笑梦",
+          "en": "Emu Otori"
+        },
+        {
+          "cn": "神代类",
+          "en": "Rui Kamishiro"
+        },
+        {
+          "cn": "朝比奈真冬",
+          "en": "Mafuyu Asahina"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title_cn": "间谍过家家",
+      "title_en": "SPY×FAMILY",
+      "characters": [
+        {
+          "cn": "劳埃德·福杰",
+          "en": "Loid Forger"
+        },
+        {
+          "cn": "约尔·福杰",
+          "en": "Yor Forger"
+        },
+        {
+          "cn": "阿尼亚·福杰",
+          "en": "Anya Forger"
+        },
+        {
+          "cn": "达米安",
+          "en": "Damian Desmond"
+        },
+        {
+          "cn": "贝姬",
+          "en": "Becky Blackbell"
+        },
+        {
+          "cn": "弗兰奇",
+          "en": "Franky Franklin"
+        },
+        {
+          "cn": "夜帷",
+          "en": "Fiona Frost (Nightfall)"
+        },
+        {
+          "cn": "亨德森",
+          "en": "Henry Henderson"
+        },
+        {
+          "cn": "邦德",
+          "en": "Bond Forger"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title_cn": "名侦探柯南",
+      "title_en": "Detective Conan",
+      "characters": [
+        {
+          "cn": "江户川柯南",
+          "en": "Conan Edogawa"
+        },
+        {
+          "cn": "工藤新一",
+          "en": "Shinichi Kudo"
+        },
+        {
+          "cn": "毛利兰",
+          "en": "Ran Mouri"
+        },
+        {
+          "cn": "毛利小五郎",
+          "en": "Kogoro Mouri"
+        },
+        {
+          "cn": "灰原哀",
+          "en": "Ai Haibara"
+        },
+        {
+          "cn": "阿笠博士",
+          "en": "Professor Agasa"
+        },
+        {
+          "cn": "服部平次",
+          "en": "Heiji Hattori"
+        },
+        {
+          "cn": "赤井秀一",
+          "en": "Shuichi Akai"
+        },
+        {
+          "cn": "安室透",
+          "en": "Toru Amuro"
+        },
+        {
+          "cn": "贝尔摩德",
+          "en": "Vermouth"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title_cn": "夏目友人帐",
+      "title_en": "Natsume’s Book of Friends",
+      "characters": [
+        {
+          "cn": "夏目贵志",
+          "en": "Takashi Natsume"
+        },
+        {
+          "cn": "斑",
+          "en": "Madara"
+        },
+        {
+          "cn": "田沼要",
+          "en": "Kaname Tanuma"
+        },
+        {
+          "cn": "多轨透",
+          "en": "Toru Taki"
+        },
+        {
+          "cn": "名取周一",
+          "en": "Shuichi Natori"
+        },
+        {
+          "cn": "的场静司",
+          "en": "Seiji Matoba"
+        },
+        {
+          "cn": "藤原塔子",
+          "en": "Toko Fujiwara"
+        },
+        {
+          "cn": "藤原滋",
+          "en": "Shigeru Fujiwara"
+        },
+        {
+          "cn": "丙",
+          "en": "Hinoe"
+        },
+        {
+          "cn": "笹田纯",
+          "en": "Jun Sasada"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title_cn": "樱兰高校男公关部",
+      "title_en": "Ouran High School Host Club",
+      "characters": [
+        {
+          "cn": "藤冈春绯",
+          "en": "Haruhi Fujioka"
+        },
+        {
+          "cn": "须王环",
+          "en": "Tamaki Suoh"
+        },
+        {
+          "cn": "凤镜夜",
+          "en": "Kyoya Ootori"
+        },
+        {
+          "cn": "常陆院光",
+          "en": "Hikaru Hitachiin"
+        },
+        {
+          "cn": "常陆院馨",
+          "en": "Kaoru Hitachiin"
+        },
+        {
+          "cn": "埴之冢光邦",
+          "en": "Mitsukuni Haninozuka"
+        },
+        {
+          "cn": "铦之冢崇",
+          "en": "Takashi Morinozuka"
+        },
+        {
+          "cn": "猫泽梅人",
+          "en": "Umehito Nekozawa"
+        },
+        {
+          "cn": "宝积寺莲华",
+          "en": "Renge Shinjouji"
+        },
+        {
+          "cn": "藤冈良夫",
+          "en": "Ryoji Fujioka"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title_cn": "葬送的芙莉莲",
+      "title_en": "Frieren",
+      "characters": [
+        {
+          "cn": "芙莉莲",
+          "en": "Frieren"
+        },
+        {
+          "cn": "辛美尔",
+          "en": "Himmel"
+        },
+        {
+          "cn": "海塔",
+          "en": "Heiter"
+        },
+        {
+          "cn": "艾泽",
+          "en": "Eisen"
+        },
+        {
+          "cn": "菲伦",
+          "en": "Fern"
+        },
+        {
+          "cn": "修塔尔克",
+          "en": "Stark"
+        },
+        {
+          "cn": "弗兰梅",
+          "en": "Flamme"
+        },
+        {
+          "cn": "邓肯",
+          "en": "Denken"
+        },
+        {
+          "cn": "赛丽艾",
+          "en": "Serie"
+        },
+        {
+          "cn": "奥拉",
+          "en": "Aura"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title_cn": "地缚少年花子君",
+      "title_en": "Toilet-Bound Hanako-kun",
+      "characters": [
+        {
+          "cn": "花子君",
+          "en": "Hanako-kun"
+        },
+        {
+          "cn": "八寻宁宁",
+          "en": "Nene Yashiro"
+        },
+        {
+          "cn": "源光",
+          "en": "Kou Minamoto"
+        },
+        {
+          "cn": "源辉",
+          "en": "Teru Minamoto"
+        },
+        {
+          "cn": "赤根葵",
+          "en": "Aoi Akane"
+        },
+        {
+          "cn": "苍井茜",
+          "en": "Akane Aoi"
+        },
+        {
+          "cn": "七峰樱",
+          "en": "Sakura Nanamine"
+        },
+        {
+          "cn": "日向夏彦",
+          "en": "Natsuhiko Hyuga"
+        },
+        {
+          "cn": "三叶惣助",
+          "en": "Mitsuba Sousuke"
+        },
+        {
+          "cn": "土笼",
+          "en": "Tsuchigomori"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title_cn": "初音未来",
+      "title_en": "Hatsune Miku",
+      "characters": [
+        {
+          "cn": "初音未来",
+          "en": "Hatsune Miku"
+        },
+        {
+          "cn": "镜音铃",
+          "en": "Kagamine Rin"
+        },
+        {
+          "cn": "镜音连",
+          "en": "Kagamine Len"
+        },
+        {
+          "cn": "巡音流歌",
+          "en": "Megurine Luka"
+        },
+        {
+          "cn": "MEIKO",
+          "en": "MEIKO"
+        },
+        {
+          "cn": "KAITO",
+          "en": "KAITO"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title_cn": "孤独摇滚！",
+      "title_en": "Bocchi the Rock!",
+      "characters": [
+        {
+          "cn": "后藤一里",
+          "en": "Hitori Gotoh"
+        },
+        {
+          "cn": "伊地知虹夏",
+          "en": "Nijika Ijichi"
+        },
+        {
+          "cn": "山田凉",
+          "en": "Ryo Yamada"
+        },
+        {
+          "cn": "喜多郁代",
+          "en": "Ikuyo Kita"
+        },
+        {
+          "cn": "伊地知星歌",
+          "en": "Seika Ijichi"
+        },
+        {
+          "cn": "广井菊里",
+          "en": "Kikuri Hiroi"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title_cn": "吉伊卡哇",
+      "title_en": "Chiikawa",
+      "characters": [
+        {
+          "cn": "吉伊",
+          "en": "Chiikawa"
+        },
+        {
+          "cn": "哈奇",
+          "en": "Hachiware"
+        },
+        {
+          "cn": "乌萨奇",
+          "en": "Usagi"
+        },
+        {
+          "cn": "小桃",
+          "en": "Momonga"
+        },
+        {
+          "cn": "海獭师傅",
+          "en": "Rakko"
+        },
+        {
+          "cn": "铠甲人",
+          "en": "Armor Guy"
+        },
+        {
+          "cn": "独眼怪",
+          "en": "Cyclops"
+        },
+        {
+          "cn": "巨型奇美拉",
+          "en": "Giant Chimera"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title_cn": "偶像梦幻祭",
+      "title_en": "Ensemble Stars",
+      "characters": [
+        {
+          "cn": "冰鹰北斗",
+          "en": "Hokuto Hidaka"
+        },
+        {
+          "cn": "明星昴流",
+          "en": "Subaru Akehoshi"
+        },
+        {
+          "cn": "游木真",
+          "en": "Makoto Yuuki"
+        },
+        {
+          "cn": "衣更真绪",
+          "en": "Mao Isara"
+        },
+        {
+          "cn": "朔间零",
+          "en": "Rei Sakuma"
+        },
+        {
+          "cn": "羽风薰",
+          "en": "Kaoru Hakaze"
+        },
+        {
+          "cn": "大神晃牙",
+          "en": "Koga Oogami"
+        },
+        {
+          "cn": "乙狩阿多尼斯",
+          "en": "Adonis Otogari"
+        },
+        {
+          "cn": "天祥院英智",
+          "en": "Eichi Tenshouin"
+        },
+        {
+          "cn": "伏见弓弦",
+          "en": "Yuzuru Fushimi"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title_cn": "鬼灭之刃",
+      "title_en": "Demon Slayer",
+      "characters": [
+        {
+          "cn": "灶门炭治郎",
+          "en": "Tanjiro Kamado"
+        },
+        {
+          "cn": "灶门祢豆子",
+          "en": "Nezuko Kamado"
+        },
+        {
+          "cn": "我妻善逸",
+          "en": "Zenitsu Agatsuma"
+        },
+        {
+          "cn": "嘴平伊之助",
+          "en": "Inosuke Hashibira"
+        },
+        {
+          "cn": "富冈义勇",
+          "en": "Giyu Tomioka"
+        },
+        {
+          "cn": "胡蝶忍",
+          "en": "Shinobu Kocho"
+        },
+        {
+          "cn": "炼狱杏寿郎",
+          "en": "Kyojuro Rengoku"
+        },
+        {
+          "cn": "宇髄天元",
+          "en": "Tengen Uzui"
+        },
+        {
+          "cn": "时透无一郎",
+          "en": "Muichiro Tokito"
+        },
+        {
+          "cn": "鬼舞辻无惨",
+          "en": "Muzan Kibutsuji"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title_cn": "SQ",
+      "title_en": "SQ",
+      "characters": [
+        {
+          "cn": "孙璟",
+          "en": "Sun Jing"
+        },
+        {
+          "cn": "秋瞳",
+          "en": "Qiu Tong"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title_cn": "小蘑菇",
+      "title_en": "Little Mushroom",
+      "characters": [
+        {
+          "cn": "安折",
+          "en": "An Zhe"
+        },
+        {
+          "cn": "陆沨",
+          "en": "Lu Feng"
+        },
+        {
+          "cn": "诺亚",
+          "en": "Noah"
+        },
+        {
+          "cn": "艾琳",
+          "en": "Irene"
+        },
+        {
+          "cn": "查尔斯",
+          "en": "Charles"
+        },
+        {
+          "cn": "西泽",
+          "en": "Sezer"
+        },
+        {
+          "cn": "审判官",
+          "en": "The Judge"
+        },
+        {
+          "cn": "研究员甲",
+          "en": "Researcher A"
+        },
+        {
+          "cn": "研究员乙",
+          "en": "Researcher B"
+        },
+        {
+          "cn": "中央系统",
+          "en": "Central System"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title_cn": "全球高考",
+      "title_en": "Global Examination",
+      "characters": [
+        {
+          "cn": "游惑",
+          "en": "You Huo"
+        },
+        {
+          "cn": "秦究",
+          "en": "Qin Jiu"
+        },
+        {
+          "cn": "监考官A",
+          "en": "Invigilator A"
+        },
+        {
+          "cn": "监考官B",
+          "en": "Invigilator B"
+        },
+        {
+          "cn": "系统",
+          "en": "System"
+        },
+        {
+          "cn": "林语",
+          "en": "Lin Yu"
+        },
+        {
+          "cn": "于闻",
+          "en": "Yu Wen"
+        },
+        {
+          "cn": "赵锦",
+          "en": "Zhao Jin"
+        },
+        {
+          "cn": "老于",
+          "en": "Old Yu"
+        },
+        {
+          "cn": "考生001",
+          "en": "Examinee 001"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title_cn": "人鱼陷落",
+      "title_en": "Preference of Poseidon",
+      "characters": [
+        {
+          "cn": "白楚年",
+          "en": "Bai Chunian"
+        },
+        {
+          "cn": "兰波",
+          "en": "Lambo"
+        },
+        {
+          "cn": "毕揽星",
+          "en": "Bi Lanxing"
+        },
+        {
+          "cn": "韩行谦",
+          "en": "Han Xingqian"
+        },
+        {
+          "cn": "夏镜天",
+          "en": "Xia Jingtian"
+        },
+        {
+          "cn": "周书",
+          "en": "Zhou Shu"
+        },
+        {
+          "cn": "安德烈",
+          "en": "Andrei"
+        },
+        {
+          "cn": "诺亚",
+          "en": "Noah"
+        },
+        {
+          "cn": "凯撒",
+          "en": "Caesar"
+        },
+        {
+          "cn": "波塞冬",
+          "en": "Poseidon"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title_cn": "19天",
+      "title_en": "19 Days",
+      "characters": [
+        {
+          "cn": "贺天",
+          "en": "He Tian"
+        },
+        {
+          "cn": "莫关山",
+          "en": "Mo Guan Shan"
+        },
+        {
+          "cn": "展正希",
+          "en": "Zhan Zheng Xi"
+        },
+        {
+          "cn": "见一",
+          "en": "Jian Yi"
+        },
+        {
+          "cn": "阿关",
+          "en": "Ah Guan"
+        },
+        {
+          "cn": "老贺",
+          "en": "Old He"
+        },
+        {
+          "cn": "阿天",
+          "en": "Ah Tian"
+        },
+        {
+          "cn": "老莫",
+          "en": "Old Mo"
+        },
+        {
+          "cn": "同学甲",
+          "en": "Student A"
+        },
+        {
+          "cn": "同学乙",
+          "en": "Student B"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title_cn": "会长是女仆大人！",
+      "title_en": "Maid Sama!",
+      "characters": [
+        {
+          "cn": "鲇泽美咲",
+          "en": "Misaki Ayuzawa"
+        },
+        {
+          "cn": "碓冰拓海",
+          "en": "Takumi Usui"
+        },
+        {
+          "cn": "白川直也",
+          "en": "Nao Shirokawa"
+        },
+        {
+          "cn": "更科郁斗",
+          "en": "Ikuto Sarashina"
+        },
+        {
+          "cn": "黑崎龙之介",
+          "en": "Ryunosuke Kurosaki"
+        },
+        {
+          "cn": "幸村祥一郎",
+          "en": "Shintaro Yukimura"
+        },
+        {
+          "cn": "花园樱",
+          "en": "Sakura Hanazono"
+        },
+        {
+          "cn": "小幸",
+          "en": "Kou"
+        },
+        {
+          "cn": "绫乃",
+          "en": "Ayano Tateyama"
+        },
+        {
+          "cn": "美咲母亲",
+          "en": "Minako Ayuzawa"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title_cn": "恋与深空",
+      "title_en": "Love and Deepspace",
+      "characters": [
+        {
+          "cn": "沈星回",
+          "en": "Xavier"
+        },
+        {
+          "cn": "黎深",
+          "en": "Zayne"
+        },
+        {
+          "cn": "祁煜",
+          "en": "Rafayel"
+        },
+        {
+          "cn": "秦彻",
+          "en": "Sylus"
+        },
+        {
+          "cn": "夏以昼",
+          "en": "Caleb"
+        }
+      ]
+    }
+  ]
+}
